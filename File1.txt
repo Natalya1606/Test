@@ -2,25 +2,3 @@ Line0
 Line00
 New line1
 New line2
-New line3
-New line4
-New line5
-New line6
-New line7
-New line0
-new line8
-
-<<<<<<< HEAD
-new line11
-=======
->>>>>>> ae7d4a74f8deccae404d87e439a2381471e41021b
-new line branch update
-new line
-
-
-
-55555555555555555
-
-
-5
-46688
